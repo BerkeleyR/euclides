@@ -1,0 +1,5 @@
+[package]
+
+name = "euclides"
+version = "0.0.1"
+authors = ["Rob Haverkamp, Berkeley"]
